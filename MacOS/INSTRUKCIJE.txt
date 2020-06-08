@@ -1,0 +1,8 @@
+U main.m se nalazi izvorni Objective C kod, koriscena je dokumentacija sa:
+ -https://developer.apple.com/documentation/appkit
+
+Aplikacija verovatno sadrzi greske, nije testirana na realnom sistemu.
+Do sada nisam imao iskustva sa Objective C-om i MasOs-om
+
+Pozdrav,
+Bojan Stojkovic
