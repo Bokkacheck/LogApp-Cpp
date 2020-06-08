@@ -1,0 +1,10 @@
+Koriscen je Visual Studio Code, uz gcc kompajler na Ubuntu 18.04
+ -Podesavanja: https://code.visualstudio.com/docs/cpp/config-linux
+ -Dodatak: U task.json dodat je argument "-pthread" iz razloga jer program koristi pthread.
+
+U podesavanjima Ubunta podeseno je da se aplikacija automatski pali prilikom logovanja korisnika.
+
+Potrebno je instalirari wmctrl : sudo apt-get install wmctrl
+
+Pozdrav,
+Bojan Stojkovic
