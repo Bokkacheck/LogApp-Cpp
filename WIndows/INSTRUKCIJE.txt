@@ -1,0 +1,17 @@
+LogApp, windows c++
+
+Podesavanja u okruženju Visual Studio:
+- Project propertis -> Configuration Propertis -> Advanced -> Character Set : Use Multi-Byte Character Set
+- Project propertis -> Configuration Propertis -> Linker -> System -> SubSystem : Windows (/SUBSYSTEM:WINDOWS)
+
+Aplikacija je napravljena da ne koristi konzolu ili neki window, kako bi bila neprimetna dok radi u pozadini.
+
+U particiji C je napravljen folder logapp i okviru njega ce se kreirati trazene datoteke.
+
+Da bi se aplikacija pokrenula automatski u pozadini kreiran je shortcut ka izvrsnoj verziji programa koji se mora smestiti
+na mesto koje je dostupno svim korisnicima.
+
+Shortcut je postavljen u: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\StartUp
+
+Pozdrav,
+Bojan Stojkovic

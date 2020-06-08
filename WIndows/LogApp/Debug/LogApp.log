@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\minwindef.h(132,1): warning C4005: 'PASCAL': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\Lmcons.h(45): message : see previous definition of 'PASCAL'
+  LogApp.vcxproj -> C:\Users\Bojan\source\repos\LogApp\Debug\LogApp.exe
